@@ -1,0 +1,14 @@
+.img{
+    height: 50px;
+    padding-left: 50px;
+}
+.just{
+    text-align: justify;
+}
+.bg{
+    background-image: url(../images/bg.png);
+}
+.nav_height{
+    height: 76px;
+}
+
